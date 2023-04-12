@@ -1,6 +1,28 @@
-### Ruairi Casey
+## Bio
 
 I am currently studying a Masters in Software Development at the University of Glasgow, and will be graduating in August.
+
+## Skills
+### Masters
+Java | SQL | Python | Django | HTML | CSS | Javascript
+### Self Learning
+Solidity | Dart | Flutter
+
+
+<!-- ### Semester 1
+- Programming
+- Systems and Networks 
+- Enterprise Cyber Security
+- Database Theory and Application
+### Semester 2 
+- Advanced Programming
+- MSC Team Project
+- Algorithms and Data Structures
+- Internet Technology
+- Human Computer Interaction
+- Software Engineering
+### Semester 3
+- MSC Individual Project -->
 
 
 <!--
