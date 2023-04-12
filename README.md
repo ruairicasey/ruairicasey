@@ -1,4 +1,7 @@
-### Hi there 👋
+### Ruairi Casey
+
+I am currently studying a Masters in Software Development at the University of Glasgow, and will be graduating in August.
+
 
 <!--
 **ruairicasey/ruairicasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
