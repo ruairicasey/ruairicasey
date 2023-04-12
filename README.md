@@ -10,8 +10,9 @@ This portfolio consists of self directed learning and side projects that I have 
 - Gmail App
 ### Javascript
 - Twitter / Telegram bot
+### Web3
 - Wallet Tracker
-### Courses
+## Courses
 - Alchemy University
 - CryptoZombies
 
