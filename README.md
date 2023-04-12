@@ -1,6 +1,6 @@
 ## Bio
 
-I am currently studying a Masters in Software Development at the University of Glasgow, and will be graduating in August. 
+I am currently studying a Masters in Software Development at the University of Glasgow, and will be graduating in August.                                   
 This portfolio consists of self directed learning and side projects that I have done in my free time alongside my degree. 
 
 ## Projects
