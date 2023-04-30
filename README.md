@@ -8,10 +8,11 @@ This portfolio consists of self directed learning and side projects that I have 
 - First App
 - Namer App
 - Gmail App
-### Javascript
-- Twitter / Telegram bot
-### Web3
-- Wallet Tracker
+### Python
+- Instagram Analyser 
+### Javascript / Web3
+- Wallet Analyser
+- Token Analyser
 ## Courses
 - Alchemy University
 - CryptoZombies
