@@ -9,7 +9,7 @@ This portfolio consists of self directed learning and side projects that I have 
 - Namer App
 - Gmail App
 ### Python
-- Instagram Analyser 
+- Instagram Analytics 
 ### Javascript / Web3
 - Wallet Analyser
 - Token Analyser
