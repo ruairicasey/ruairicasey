@@ -7,7 +7,6 @@ This portfolio consists of self directed learning and side projects that I have 
 ### Flutter / Dart
 - First App
 - Namer App
-- Gmail App
 ### Python
 - Instagram Analytics 
 ### Javascript / Web3
