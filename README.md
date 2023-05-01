@@ -14,8 +14,8 @@ This portfolio consists of self directed learning and side projects that I have 
 - Wallet Analyser
 - Token Analyser
 ## Courses
-- Alchemy University
-- CryptoZombies
+- Alchemy University: https://university.alchemy.com/
+- CryptoZombies: https://cryptozombies.io/
 
 <!-- ## Skills
 ### Masters
