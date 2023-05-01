@@ -12,7 +12,6 @@ This portfolio consists of self directed learning and side projects that I have 
 - Instagram Analytics 
 ### Javascript / Web3
 - Wallet Analyser
-- Token Analyser
 ## Courses
 - Alchemy University: https://university.alchemy.com/
 - CryptoZombies: https://cryptozombies.io/
