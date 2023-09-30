@@ -1,16 +1,18 @@
 ## Bio
 
-I am currently studying a Masters in Software Development at the University of Glasgow, and will be graduating in August.                                   
-This portfolio consists of self directed learning and side projects that I have done in my free time alongside my degree. 
+I have just finished a Masters in Software Development at the University of Glasgow, and am predicted to Graduate with Distinction.                                   
+This portfolio consists of self directed learning and side projects that I have done in my free time alongside my degree, as well as my final project.
 
 ## Projects
+### Javascript / Web3
+- Wallet Analyser
+- Top Performers Bot
+- Eyethereum
 ### Flutter / Dart
 - First App
 - Namer App
 ### Python
-- Instagram Analytics 
-### Javascript / Web3
-- Wallet Analyser
+- Instagram Analytics
 ## Courses
 - Alchemy University: https://university.alchemy.com/
 - CryptoZombies: https://cryptozombies.io/
