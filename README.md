@@ -5,9 +5,9 @@ This portfolio consists of self directed learning and side projects that I have 
 
 ## Projects
 ### Javascript / Web3
-- Wallet Analyser
 - Top Performers Bot
 - Eyethereum
+- - Wallet Analyser
 ### Flutter / Dart
 - First App
 - Namer App
