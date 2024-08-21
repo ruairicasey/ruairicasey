@@ -1,6 +1,7 @@
 ## Bio
 
-I have just finished a Masters in Software Development at the University of Glasgow, and am predicted to Graduate with Distinction.                                   
+I have just graduated with Distinction from a Masters in Software Development at the University of Glasgow.
+
 This portfolio consists of self directed learning and side projects that I have done in my free time alongside my degree, as well as my final project.
 
 ## Projects
