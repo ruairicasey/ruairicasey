@@ -1,56 +1,31 @@
-## Bio
+After finishing my MSc in Software Development (Distinction, University of Glasgow) I went all in on markets, and I've spent the last couple of years since trading full time, building algorithmic strategies and tools I trade with.
 
-I have just graduated with Distinction from a Masters in Software Development at the University of Glasgow.
+Shipping consumer apps is an area of interest too, leveraging all of the latest developments in AI and automation.
 
-This portfolio consists of self directed learning and side projects that I have done in my free time alongside my degree, as well as my final project.
+### ⚡ what I'm doing
 
-## Projects
-### Javascript / Web3
-- Top Performers Bot
-- Eyethereum
-### Flutter / Dart
-- First App
-- Namer App
-### Python
-- Instagram Analytics
-## Courses
-- Alchemy University: https://university.alchemy.com/
-- CryptoZombies: https://cryptozombies.io/
+- 📈 **Trading**: systematic, VWAP-based crypto trading on perps and funded prop accounts, plus on-chain since 2021
+- 🤖 **Algo & on-chain tooling**: building my own trading strategies, execution bots and opportunity-detection scanners
+- 📱 **Consumer apps**: building and shipping my own products, starting with the AI-native tools I wish existed
+- 🧠 **AI-first workflow**: Claude Code, agents, MCP servers, LLM pipelines
 
-<!-- ## Skills
-### Masters
-Java | SQL | Python | Django | HTML | CSS | Javascript
-### Self Learning
-Solidity | Dart | Flutter -->
+### 🛠️ currently building
 
+| Project | What it is |
+| --- | --- |
+| [**job-hunter**](https://github.com/ruairicasey/job-hunter) | AI pipeline that pulls job listings, filters and ranks them, and drafts tailored applications |
+| [**trading-journal**](https://github.com/ruairicasey/trading-journal) | Personal trading journal and stats for Hyperliquid traders |
+| **weight-tracker** | Calorie, exercise and bodyweight tracker that lives inside Claude and ChatGPT, with the view to also releasing a version as a mobile app on the Apple Store.
 
-<!-- ### Semester 1
-- Programming
-- Systems and Networks 
-- Enterprise Cyber Security
-- Database Theory and Application
-### Semester 2 
-- Advanced Programming
-- MSC Team Project
-- Algorithms and Data Structures
-- Internet Technology
-- Human Computer Interaction
-- Software Engineering
-### Semester 3
-- MSC Individual Project -->
+### 🧰 stack
 
+<img src="https://skillicons.dev/icons?i=py,ts,js,react,java,solidity,sqlite,flutter,git,vercel" />
 
-<!--
-**ruairicasey/ruairicasey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=claude&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-111111?style=flat)
 
-Here are some ideas to get you started:
+### 📫 find me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR-HANDLE)
+
+<sub>🔒 a lot of my trading tools are private. </sub>
